@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\tp01Rosenblum_Dagostino.props" />
+</Project>

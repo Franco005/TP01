@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\tp01Rosenblum_Dagostino.props" />
+</Project>
